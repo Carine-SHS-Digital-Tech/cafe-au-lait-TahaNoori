@@ -1,2 +1,3 @@
-print("Hello World")
-print("blah blah blah")
+print("Welcome to Cafe au lait")
+
+
