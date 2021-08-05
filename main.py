@@ -27,7 +27,7 @@ while True:
  if order == '4. Iced Coffee':
     print(IcedCoffee)
 
-print("coding is fun. When you can actually do it :)")
+coding is fun. When you can actually do it :)
 
 
 
