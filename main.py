@@ -13,6 +13,7 @@ print("3. Espresso")
 print("4. Iced Coffee")
 
 print(input("PLace Order: "))
+
 while True:
  if order == '1. Cappuccino':
     print(Cappuccino)
@@ -26,7 +27,7 @@ while True:
  if order == '4. Iced Coffee':
     print(IcedCoffee)
 
-
+print("coding is fun. When you can actually do it :)")
 
 
 
