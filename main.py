@@ -1,33 +1,33 @@
-Cappuccino = "$2.50"
-Latte = "$3.50"
-Espresso = "$700"
-IcedCoffee = "$0"
-order = ('1. Cappuccino', '2. Latte', '3. Espresso', '4. Iced Coffee')
+a = "$3.00"
+b = "$2.50"
+c = "$2.25"
+d = "$2.50"
+order = ("1", "2", "3", "4")
 
 print("Welcome to Cafe au lait")
 print("What would you like?")
 
-print("1. Cappuccino")
-print("2. Latte")
-print("3. Espresso")
-print("4. Iced Coffee")
+print("1. Cappuccino $3.00")
+print("2. Latte $2.50")
+print("3. Espresso $2.25")
+print("4. Iced Coffee $2.50")
 
 print(input("PLace Order: "))
 
 while True:
- if order == '1. Cappuccino':
-    print(Cappuccino)
+ if order == '1':
+    print(a)
 
- if order == '2. Latte':
-    print(Latte)
+ if order == '2':
+    print(b)
 
- if order == '3. Espresso':
-    print(Espresso)
+ if order == '3':
+    print(c)
 
- if order == '4. Iced Coffee':
-    print(IcedCoffee)
+ if order == '4':
+    print(d)
 
-coding is fun. When you can actually do it :)
+
 
 
 
